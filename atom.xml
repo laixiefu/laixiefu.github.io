@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://laixiefu.github.io/</id>
-    <title>谢福</title>
-    <updated>2021-08-10T00:19:22.793Z</updated>
+    <title>时光，临去</title>
+    <updated>2021-08-10T00:27:29.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://laixiefu.github.io/"/>
     <link rel="self" href="http://laixiefu.github.io/atom.xml"/>
-    <subtitle>与时俱进</subtitle>
+    <subtitle>现在是不确定的，未来是可以期待的</subtitle>
     <logo>http://laixiefu.github.io/images/avatar.png</logo>
     <icon>http://laixiefu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 谢福</rights>
-    <entry>
-        <title type="html"><![CDATA[大家好，我是谢福，初次见面]]></title>
-        <id>http://laixiefu.github.io/post/da-jia-hao-wo-shi-xie-fu-chu-ci-jian-mian/</id>
-        <link href="http://laixiefu.github.io/post/da-jia-hao-wo-shi-xie-fu-chu-ci-jian-mian/">
-        </link>
-        <updated>2021-08-10T00:06:54.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="http://laixiefu.github.io//post-images/1628554717867.png" alt="" loading="lazy">大家好，我是赖谢福初次见面，有问题的地方，请指正，多多包涵</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, 时光，临去</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://laixiefu.github.io/post/hello-gridea/</id>
