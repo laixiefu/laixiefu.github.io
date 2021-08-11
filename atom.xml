@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://laixiefu.github.io/</id>
     <title>时光，临去</title>
-    <updated>2021-08-10T13:42:19.560Z</updated>
+    <updated>2021-08-11T11:34:22.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://laixiefu.github.io/"/>
     <link rel="self" href="http://laixiefu.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="http://laixiefu.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<p>👏  欢迎访问 <strong>谢福</strong> ！<br>
+✍️  <strong>谢福</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>👏  欢迎访问 <strong>谢福</strong> ！<br>
+✍️  <strong>谢福</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
